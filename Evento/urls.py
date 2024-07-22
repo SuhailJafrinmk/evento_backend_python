@@ -15,7 +15,7 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Author_Book_DRF_API_doc",
+        title="Evento_api_doc",
         default_version='v1',
         description="Guide for the REST API",
     ),
