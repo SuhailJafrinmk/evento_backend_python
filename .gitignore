@@ -1,7 +1,7 @@
-category_images/
-event_images/
-profile_pictures/
-qr_codes/
-media/
+# category_images/
+# event_images/
+# profile_pictures/
+# qr_codes/
+# media/
 myenv/
 .env
